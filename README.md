@@ -13,7 +13,7 @@
 
 I'm **Dmitry Ratner**, a .NET architect and the author of the **OutWit ecosystem**. It is a growing collection of modules that I use to build desktop, web, service, and distributed applications.
 
-The earliest parts date back to **2006**. Around **2012**, the separate libraries began to form an intentional modular system. It has kept evolving ever since, with new capabilities, regular refactoring, and plenty of production feedback.
+The earliest parts date back to **2009**. Around **2014**, the separate libraries began to form an intentional modular system. It has kept evolving ever since, with new capabilities, regular refactoring, and plenty of production feedback.
 
 ## Why OutWit exists
 
